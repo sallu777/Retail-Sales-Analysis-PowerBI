@@ -26,6 +26,7 @@ An interactive dashboard built using Power BI to analyze retail sales data and p
 - Microsoft Excel (for raw data preparation)
 
 ---
+![Screenshot 2025-07-05 112956](https://github.com/user-attachments/assets/ea233558-8cce-4be5-9f50-1b8bb1f5f10d)
 
 ## Author
 
